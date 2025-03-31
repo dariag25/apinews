@@ -19,4 +19,3 @@ function showapi(json) {
         `
     }
 }
-let x = 10
